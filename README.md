@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera  for the Data Scientist's Toolbox 
+"datasciencecoursera" has been created for the The Data Scientist’s Toolbox class.
